@@ -9,4 +9,4 @@ calculated_pace = run_time / run_distance
 print(f"Date: {run_date} | Time ran for: {run_time} | Distance type: {type_of_distance} | Distance: {run_distance} | Pace: {calculated_pace:.2f} | Training type: {training_type}")
 
 with open("training_database.txt", "a") as file:
-    file.write(f"Date: {run_date} | Time ran for: {run_time} | Distance type: {type_of_distance} | Distance: {run_distance} | Pace: {calculated_pace:.2f} | Training type: {training_type}")
+    file.write(f"Date: {run_date} | Time ran for: {run_time} | Distance type: {type_of_distance} | Distance: {run_distance} | Pace: {calculated_pace:.2f} | Training type: {training_type}\n")

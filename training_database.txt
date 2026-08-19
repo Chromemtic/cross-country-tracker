@@ -1,1 +1,2 @@
 Date: August 17 2026 (First Practice) | Time ran for: 20.0 | Distance type: miles | Distance: 1.5 | Pace: 13.33 | Training type: Intro Workout
+Date: August 18 2026 (Second Practice) | Time ran for: 55.0 | Distance type: miles | Distance: 3.5 | Pace: 15.71 | Training type: Road Endurance
